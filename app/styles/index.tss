@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"#img":{
+	width:"13%",
+	height:"10%",
+	image:'/images/camara.png',
+	bottom:"5%"
+}
